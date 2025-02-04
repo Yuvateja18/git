@@ -3,3 +3,39 @@
 12344
 main changes
 1234567890
+
+git installation:
+
+https://www.datacamp.com/tutorial/git-install-tutorial
+
+
+git config --global user.name "YOUR_USERNAME"
+
+git config --global user.email "myemail@example.com"
+
+
+Check the user name and email
+
+git config user.name
+
+git config user.email
+
+
+create repo 
+
+Clone the repo: git clone "repo.git"
+
+git add -A
+
+git status
+
+git commit -m "message"
+
+git push origin master
+
+git pull repo link
+
+git branch branchname
+
+git push origin branch name
+ 
